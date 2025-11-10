@@ -9,6 +9,14 @@ nasabah = {
     "dhiya" : {
         "saldo" : 0,
         "password" : "123"
+    },
+    "azello" : {
+        "saldo" : 0,
+        "password" : "123"
+    },
+    "akira" : {
+        "saldo" : 0,
+        "password" : "123"
     }
 }
 
